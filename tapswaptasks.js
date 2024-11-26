@@ -5,11 +5,11 @@
 // @description  Tapswap Auto Task Claim
 // @author       rahatmals
 // @match        https://app.tapswap.club/*
-// @icon         https://raw.githubusercontent.com/glad-tidings/TapswapTasks/refs/heads/main/icon.jpeg
+// @icon         https://raw.githubusercontent.com/rahatmals1/TapswapTasks/refs/heads/main/icon.jpeg
 // @grant        None
-// @downloadURL  https://raw.githubusercontent.com/glad-tidings/TapswapTasks/refs/heads/main/tapswaptasks.js
-// @updateURL    https://raw.githubusercontent.com/glad-tidings/TapswapTasks/refs/heads/main/tapswaptasks.js
-// @homepage     https://github.com/glad-tidings/TapswapTasks/
+// @downloadURL  https://raw.githubusercontent.com/rahatmals1/TapswapTasks/refs/heads/main/tapswaptasks.js
+// @updateURL    https://raw.githubusercontent.com/rahatmals1/TapswapTasks/refs/heads/main/tapswaptasks.js
+// @homepage     https://github.com/rahatmals1/TapswapTasks/
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
 
