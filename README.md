@@ -2,8 +2,12 @@
 Tapswap Auto Claim Tasks Script 
 
 
+## ⚠️Warning
+I am not responsible for your account. Please consider the potential risks before using this bot.
+
+
 ## How to run
-* Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
+* Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 * Import tapswaptasks.js to violentmonkey extension
 * Open tapswap and turn off internet and reload
 * After few seconds view not loaded error
@@ -25,7 +29,4 @@ POL(POLYGON): 0x7e0f41066ac01e80e0502353dbdfce5ae8435b0d
 ```
 TON(TONCOIN): UQARCfoAzelJtYLtrW0JrxeLOT8T9hGfPRxWohzUV7NBb5kY
 
-``
-
-## ⚠️Warning
-I am not responsible for your account. Please consider the potential risks before using this bot.
+```
