@@ -27,5 +27,6 @@ TON(TONCOIN): UQARCfoAzelJtYLtrW0JrxeLOT8T9hGfPRxWohzUV7NBb5kY
 
 ```
 
+```
 ## ⚠️Warning
 I am not responsible for your account. Please consider the potential risks before using this bot.
