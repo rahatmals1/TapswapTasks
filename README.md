@@ -25,7 +25,6 @@ POL(POLYGON): 0x7e0f41066ac01e80e0502353dbdfce5ae8435b0d
 ```
 TON(TONCOIN): UQARCfoAzelJtYLtrW0JrxeLOT8T9hGfPRxWohzUV7NBb5kY
 
-```
 
 ## ⚠️Warning
 I am not responsible for your account. Please consider the potential risks before using this bot.
