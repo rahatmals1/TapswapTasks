@@ -19,14 +19,10 @@ I am not responsible for your account. Please consider the potential risks befor
 ## Donation
 ```
 USDT(BEP20): 0x7e0f41066ac01e80e0502353dbdfce5ae8435b0d
-
 ```
 TRX(TRON): TKeAkGha9iJjZwnNtfWB5ixS4rJBXhEvPJ
-
 ```
 POL(POLYGON): 0x7e0f41066ac01e80e0502353dbdfce5ae8435b0d
-
 ```
 TON(TONCOIN): UQARCfoAzelJtYLtrW0JrxeLOT8T9hGfPRxWohzUV7NBb5kY
-
 ```
